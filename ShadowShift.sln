@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowShift", "ShadowShift\ShadowShift.csproj", "{8B8EE9F8-34BD-46D4-977B-03873EDF361C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowShift.Tests", "ShadowShift.Tests\ShadowShift.Tests.csproj", "{F9CA53E3-6500-499C-BC34-0B930B6B44DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8EE9F8-34BD-46D4-977B-03873EDF361C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8EE9F8-34BD-46D4-977B-03873EDF361C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8EE9F8-34BD-46D4-977B-03873EDF361C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8EE9F8-34BD-46D4-977B-03873EDF361C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CA53E3-6500-499C-BC34-0B930B6B44DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CA53E3-6500-499C-BC34-0B930B6B44DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CA53E3-6500-499C-BC34-0B930B6B44DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CA53E3-6500-499C-BC34-0B930B6B44DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

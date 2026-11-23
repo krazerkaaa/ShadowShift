@@ -1,0 +1,14 @@
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\bin\Debug\net8.0-windows\ShadowShift.exe
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\bin\Debug\net8.0-windows\ShadowShift.deps.json
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\bin\Debug\net8.0-windows\ShadowShift.runtimeconfig.json
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\bin\Debug\net8.0-windows\ShadowShift.dll
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\bin\Debug\net8.0-windows\ShadowShift.pdb
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\ShadowShift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\ShadowShift.AssemblyInfoInputs.cache
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\ShadowShift.AssemblyInfo.cs
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\ShadowShift.csproj.CoreCompileInputs.cache
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\ShadowShift.dll
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\refint\ShadowShift.dll
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\ShadowShift.pdb
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\ShadowShift.genruntimeconfig.cache
+C:\Users\hog39\RiderProjects\ShadowShift\ShadowShift\obj\Debug\net8.0-windows\ref\ShadowShift.dll
