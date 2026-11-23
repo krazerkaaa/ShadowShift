@@ -1,5 +1,5 @@
 ﻿bin/
-     obj/
-     .vs/
-     .idea/
-     *.user
+obj/
+.vs/
+.idea/
+*.user
